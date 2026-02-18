@@ -4,7 +4,7 @@ My AI Chatbot
 
 ## Description
 
-Building my first AI chatbot
+Building my first AI chatbot 
 
 ## Getting Started
 
